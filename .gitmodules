@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "digiRhythm"]
 	path = digiRhythm
-	url = https://github.com/nasserdr/digirhythm
+	url = https://github.com/nasserdr/digirhythm-r-package
